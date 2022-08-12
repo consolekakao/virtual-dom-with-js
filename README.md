@@ -1,4 +1,4 @@
-# Vanilla JavaScript로 Virtual DOM 구현하
+# Vanilla JavaScript로 Virtual DOM 구현하기
 
 ```
 // 실행 방법!
@@ -6,6 +6,7 @@ npm install
 npm run babel
 npm run start
 ```
+
 ## 📚 Virtual DOM을 구현하기 위한 정리 📚
 > - React Element
 > - JSX vs JS
